@@ -36,4 +36,4 @@ fminsim
 mpc_control_parameters
 MPC_fmin_implemented
 
-# ~END OF FILE, THANK YOU FOR YOUR ATTENTION~
+# END OF FILE, THANK YOU FOR YOUR ATTENTION
