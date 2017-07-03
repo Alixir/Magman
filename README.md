@@ -1,6 +1,6 @@
 # Magman
 Magnetic manipulation of ferromagnetic ball, allowing it to follow a reference trajectory on a one dimensional plane. 
-https://www.youtube.com/watch?v=MlQ33vGkyMw 
+https://www.youtube.com/watch?v=cU9OgvBCbVo
 
 # This folder consists of the model, three controllers : 1. PID with state feedback linearisation 2. LQI controller 3. Constrained Optimisation with Model Predictive Control and the supporting data files.
 
