@@ -3,6 +3,7 @@ Magnetic manipulation of ferromagnetic ball, allowing it to follow a reference t
 # Project video link:
 https://www.youtube.com/watch?v=cU9OgvBCbVo
 
+# Project description and file guidelines
 %% This folder consists of the model, three controllers : 1. PID with state feedback linearisation 2. LQI controller 3. Constrained Optimisation with Model Predictive Control and the supporting data files.
 
 %% For nonlinear Magman model run the following:
@@ -37,4 +38,4 @@ fminsim
 mpc_control_parameters
 MPC_fmin_implemented
 
-%% END OF FILE, THANK YOU FOR YOUR ATTENTION.
+# END OF FILE, THANK YOU FOR YOUR ATTENTION.
