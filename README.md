@@ -33,9 +33,9 @@ This folder consists of the model, three controllers : 1. PID with state feedbac
 
 
 - For MPC simulation run the following files:
- - model_generation
- - fminsim
- - mpc_control_parameters
- - MPC_fmin_implemented
+  - model_generation
+  - fminsim
+  - mpc_control_parameters
+  - MPC_fmin_implemented
 
 **_END OF FILE, THANK YOU FOR YOUR ATTENTION._**
